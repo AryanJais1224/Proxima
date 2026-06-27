@@ -59,7 +59,43 @@ Built with a distributed microservice architecture, Proxima combines geospatial 
 
 # Application User Interface
 
-> Screenshots of the application interface will be added soon.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d37003ca-fe3e-4e80-ae88-3768fcb2b53b" width="320" height="620" alt="Proxima 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/951cddf1-e832-4719-950b-c4d8121a7e1e" width="320" height="620" alt="Proxima 2">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5e9dd887-5a6b-409e-9522-033633e8cf18" width="320" height="620" alt="Proxima 3">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5044c676-ac05-4cd6-ba53-8e0566ac4dd9" width="320" height="620" alt="Proxima 4">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7f738e13-45f3-427c-a735-b3ed60fcf17e" width="320" height="620" alt="Proxima 5">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d2a256ec-54cb-4bd4-b8fd-c0d2b6f87d5d" width="320" height="620" alt="Proxima 6">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3edffdc2-e836-449e-8509-830373191cd6" width="320" height="620" alt="Proxima 7">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c29b604a-b1ad-40b4-bfae-40b4ff1ce24f" width="320" height="620" alt="Proxima 8">
+    </td>
+  </tr>
+</table>
 
 ---
 
