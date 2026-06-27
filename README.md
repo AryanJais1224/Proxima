@@ -12,19 +12,19 @@
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Application User Interface](#-application-user-interface)
-- [Demo Video](#-demo-video)
-- [Tech Stack](#-tech-stack)
-- [System Architecture](#-system-architecture)
-- [Engineering Decisions](#️-engineering-decisions)
-- [Installation & Running the Project](#-installation--running-the-project)
-- [License](#-license)
-- [Author](#-author)
+- [Overview](#overview)
+- [Application User Interface](#application-user-interface)
+- [Demo Video](#demo-video)
+- [Tech Stack](#tech-stack)
+- [System Architecture](#system-architecture)
+- [Engineering Decisions](#engineering-decisions)
+- [Installation & Running the Project](#installation--running-the-project)
+- [License](#license)
+- [Author](#author)
 
 ---
 
-## 📖 Overview
+## Overview
 
 Proxima is a real-time, proximity-based networking platform that enables people at the same physical location (hackathons, meetups, conferences, concerts, and other live events) to discover and connect with like-minded individuals nearby.
 
@@ -133,7 +133,7 @@ Note: All screenshots, user profiles, and contact details displayed in this docu
 
 ---
 
-# ⚙️ Engineering Decisions
+# Engineering Decisions
 
 The architecture of **Proxima** was designed to prioritize **low latency**, **horizontal scalability**, and **real-time responsiveness** while maintaining a clean separation of concerns across services.
 
@@ -153,13 +153,13 @@ The architecture of **Proxima** was designed to prioritize **low latency**, **ho
 
 ---
 
-# 🚀 Installation & Running the Project
+# Installation & Running the Project
 
 > ⚙️ Detailed setup instructions, Docker Compose configuration, and environment variable documentation will be added soon.
 
 ---
 
-# 📄 License
+# License
 
 Distributed under the **MIT License**.
 
@@ -167,7 +167,7 @@ See the `LICENSE` file for more information.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aryan Jaiswal**
 
