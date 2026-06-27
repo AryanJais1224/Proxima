@@ -103,7 +103,10 @@ Note: All screenshots, user profiles, and contact details displayed in this docu
 
 # Demo Video
 
-> A complete walkthrough and live demonstration of Proxima will be added soon.
+<video src="https://github.com/user-attachments/assets/285cd759-6faf-452d-93d3-c6a2c862bc6f"
+       controls
+       width="900">
+</video>
 
 ---
 
