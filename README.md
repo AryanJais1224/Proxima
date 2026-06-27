@@ -97,6 +97,8 @@ Built with a distributed microservice architecture, Proxima combines geospatial 
   </tr>
 </table>
 
+Note: All screenshots, user profiles, and contact details displayed in this documentation are mock data created for demonstration purposes only.
+
 ---
 
 # Demo Video
