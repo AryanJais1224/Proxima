@@ -18,7 +18,6 @@
 - [Tech Stack](#tech-stack)
 - [System Architecture](#system-architecture)
 - [Engineering Decisions](#engineering-decisions)
-- [Installation & Running the Project](#installation--running-the-project)
 - [License](#license)
 - [Author](#author)
 
@@ -129,7 +128,11 @@ Note: All screenshots, user profiles, and contact details displayed in this docu
 
 # System Architecture
 
-> A detailed system architecture diagram illustrating the API Gateway, Backend Services, Worker Engine, ML Inference Service, Redis, and PostgreSQL interactions will be added soon.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/42efa0bf-2a77-445a-87ee-a596f087b338"
+       alt="High Level Design"
+       width="100%">
+</p>
 
 ---
 
@@ -150,12 +153,6 @@ The architecture of **Proxima** was designed to prioritize **low latency**, **ho
 | **Why Event-Driven Processing?** | Computationally intensive tasks such as matchmaking and semantic ranking are executed asynchronously, ensuring API endpoints remain responsive under high user concurrency. |
 | **Why Supabase Storage?** | Offloads media storage from backend services while providing secure signed URLs for controlled access to user-uploaded assets. |
 | **Why Firebase Authentication?** | Delegates authentication and JWT verification to a trusted identity provider, simplifying security while supporting scalable user management. |
-
----
-
-# Installation & Running the Project
-
-> ⚙️ Detailed setup instructions, Docker Compose configuration, and environment variable documentation will be added soon.
 
 ---
 
